@@ -219,10 +219,10 @@ pyspark-dbt-project/
 **Dev Parmar** — Project Owner & Implementer
 
 * 💼 **GitHub:** [KibutuJr](https://github.com/KibutuJr)
-*  [🌐 **Portfolio:**](https://kibutujr.vercel.app/)
-*  [💬 **LinkedIn:**](https://www.linkedin.com/in/fred-kibutu/)
-*  [📧 **Email:**](mailto:kibutujr@gmail.com)
-* 🗂️ **Repository:** [pyspark-dbt-project](https://github.com/KibutuJr/pyspark-dbt-project.git)
+*  [🌐 **Portfolio:**](https://dev-parmar-portfolio.netlify.app/)
+*  [💬 **LinkedIn:**](https://www.linkedin.com/in/)
+*  [📧 **Email:**](mailto:Parmardev379@gmail.com)
+* 🗂️ **Repository:** [pyspark-dbt-project](https://github.com/)
 
 ---
 
