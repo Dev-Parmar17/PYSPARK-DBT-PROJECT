@@ -1,6 +1,3 @@
-# PYSPARK-DBT-PROJECT
-
-
 # End-to-End Data Engineering Project — PySpark, Databricks & dbt
 
 This repository contains an **end-to-end data engineering pipeline** that integrates **PySpark**, **Databricks**, and **dbt Cloud** to design a scalable medallion architecture (Bronze → Silver → Gold).  
