@@ -215,7 +215,7 @@ pyspark-dbt-project/
 
 **Dev Parmar** — Project Owner & Implementer
 
-* 💼 **GitHub:** [KibutuJr](https://github.com/Dev-Parmar17/)
+* 💼 **GitHub:** [Dev Parmar](https://github.com/Dev-Parmar17/)
 *  [🌐 **Portfolio:**](https://dev-parmar-portfolio.netlify.app/)
 *  [💬 **LinkedIn:**](https://www.linkedin.com/in/)
 *  [📧 **Email:**](mailto:Parmardev379@gmail.com)
